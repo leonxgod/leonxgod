@@ -19,8 +19,8 @@
 <hr>
 
 ## Contact Us
-<img src=https://image.flaticon.com/icons/png/512/2111/2111646.png" width="20" height="20"> • [Telegram](https://t.me/cuksuz) <br>
-<img src="https://image.flaticon.com/icons/png/512/3296/3296467.png" width="20" height="20"> • [Email: iletisim@siberscript.com](mailto:iletisim@siberscript.com) <br>
+<img src="https://image.flaticon.com/icons/png/512/2111/2111646.png" width="20" height="20"> • [Telegram](https://t.me/cuksuz) <br>
+<img src="https://as1.ftcdn.net/jpg/02/73/74/34/500_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" width="20" height="20"> • [Email: iletisim@siberscript.com](mailto:iletisim@siberscript.com) <br>
 
 ### Have Fun!
 
