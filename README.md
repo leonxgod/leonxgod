@@ -23,7 +23,7 @@
 <img src="https://as1.ftcdn.net/jpg/02/73/74/34/500_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" width="20" height="20"> • [Email: iletisim@siberscript.com](mailto:iletisim@siberscript.com) <br>
 
 ### Have Fun!
-
+<pre>
           |\_|\
           | a_a\
           | | "]
@@ -45,3 +45,4 @@
   \ \| | /   | |__
      / |   |____)
        |__)
+<pre>
